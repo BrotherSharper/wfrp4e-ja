@@ -1,0 +1,21 @@
+{
+  "name": "wfrp4e-ja",
+  "title": "WFRP4E ウォーハンマーRPG 第4版 日本語化MOD",
+  "description": "オンセ工房 FoundryVTTでウォーハンマーRPGを日本語化するためのMOD。(日本語版制作:Asami)",
+  "version": "1.0",
+  "minimumCoreVersion" : "0.6.6",
+  "compatibleCoreVersion":"0.7.5",
+  "author": "Asami",
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+    
+  "languages": [{
+  	"lang": "ja",
+    "name": "日本語",
+    "path": "ja.json"
+  }],
+  "url" : "https://github.com/BrotherSharper/wfrp4e-ja",
+	"download" : "https://github.com/BrotherSharper/wfrp4e-ja/archive/master.zip",
+	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/wfrp4e-ja/master/module.json"
+  }
