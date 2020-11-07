@@ -2,7 +2,7 @@
   "name": "wfrp4e-ja",
   "title": "WFRP4E ウォーハンマーRPG 第4版 日本語化MOD",
   "description": "オンセ工房 FoundryVTTでウォーハンマーRPGを日本語化するためのMOD。(日本語版制作:Asami)",
-  "version": "1.0",
+  "version": "1.1",
   "minimumCoreVersion" : "0.6.6",
   "compatibleCoreVersion":"0.7.5",
   "author": "Asami",
