@@ -30,8 +30,8 @@
     "SETTINGS.RoundSummaryHint" : "ラウンドが終了したら、すべての参戦者に状態を表示します。",
     "SETTINGS.StatusTurnStart" : "ターン開始時に参戦者のステータス表示をする",
     "SETTINGS.StatusTurnStartHint" : "参戦者がターンを開始すると、そのステータスが表示されます（条件と修正）。このステータスメッセージは、参戦者を右クリックして表示されるメッセージと同じです。",
-    "SETTINGS.FocusTurnStart" : "ラウンド終了時、全参戦者の状態を表示します",
-    "SETTINGS.FocusTurnStartHint" : "ラウンドが終了したら、すべての参戦者の状態を表示します。",
+    "SETTINGS.FocusTurnStart" : "ターン開始時に焦点を当てる",
+    "SETTINGS.FocusTurnStartHint" : "参戦者のターン開始時に、画面を移動させて焦点を当てます。",
     "SETTINGS.HideTestData" : "テストデータを隠す",
     "SETTINGS.HideTestDataHint" : "GMテストチャットカードは、機密性の高いNPCデータをプレイヤーに表示しません。",
     "SETTINGS.ManualChatCards" : "手動チャットカード",
@@ -531,6 +531,7 @@
     "WFRP4E.TrappingType.Ingredient" : "具材",
     "WFRP4E.TrappingType.Ingredients" : "具材",
     "WFRP4E.TrappingType.Misc" : "その他",
+    "SECTION.Passengers" : "乗客",
 
     "WFRP4E.EncumbrancePenalties.Encumbered" : "移動力-1 (最低値:3)､【敏捷力】-10、工程疲労+1",
     "WFRP4E.EncumbrancePenalties.VeryEnc" : "移動力-2 (最低値:2)､【敏捷力】-20 (最低値:10)、工程疲労+2",
@@ -668,6 +669,8 @@
 
     "SHEET.DupPrompt" : "このアイテムを複製しますか？",
     "SHEET.DupTitle" : "複製アイテム",
+    "SHEET.SplitPrompt" : "分割する数を入力してください",
+    "SHEET.SplitTitle" : "アイテム分割",
     "SHEET.SwitchToSkills" : "技能に切替",
     "SHEET.SwitchToExtendedTests" : "継続テストに切替",
 
@@ -762,6 +765,26 @@
     "TRAVEL.DangerVeryHigh" : "とても高い",
     "TRAVEL.Helper" : "距離については <i>Jackdays</i> の手による <i>Travel Distances in the Empire</i> に基づいています。距離は、旅に関する中世の歴史的文書に従って訂正されており、川の流れの向きも考慮されています。<br><b>使用法</b> : <b>/travel town</b> または <b>/travel town1 town2</b> または <b>/travel</b>",
 
+
+    "VEHICLE.ModEncumbranceTT" : "荷重による修正: {amt}",
+    "VEHICLE.CarryEncumbranceTT" : "貨物の荷重: {amt}",
+    "VEHICLE.CrewRoles" : "乗組員の役割",
+    "VEHICLE.Skill" : "技能",
+    "VEHICLE.Modifications" : "乗物による修正",
+    "VEHICLE.ModType" : "修正タイプ",
+
+
+    "CONFIGURE.CalcTokenSize" : "トークンサイズの自動化",
+    "CONFIGURE.CalcRun" : "走行移動の自動化",
+    "CONFIGURE.CalcWalk" : "歩行移動の自動化",
+    "CONFIGURE.CalcWounds" : "耐久値の自動化",
+    "CONFIGURE.CalcCritWounds" : "致命的負傷の自動化",
+    "CONFIGURE.CalcCorruption" : "堕落の自動化",
+    "CONFIGURE.CalcMaxEnc" : "荷重処理の自動化",
+    "CONFIGURE.AddActorEncumbrance" : "アクターの荷重を追加",
+
+
+    "Cargo": "貨物",
     "Casting Number": "発動値 (CN)",
     "CHAT.OvercastReset": "超過発動リセット",
     "Conditions": "状態",
